@@ -1,0 +1,16 @@
+// Base styles
+html {
+  font-family: var(--font-fallback);
+}
+
+body {
+  margin: 0;
+  font-family: var(--font-poppins-sans);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+  monospace;
+}
